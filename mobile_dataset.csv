@@ -1,0 +1,10 @@
+model_name	manufature	date_first_avaliable	price	ram	cpu	display_size	front_camera	rear_camera	battery	special_feature	unit_sold	avg_rating
+realme	oppo	12/01/2018	10000	4	Qualcomm Snapdragon 710 Octa core Processor	6.3	25	16	4045	Dual Sim,Rear Fingerprint Sensor,Face Unlock,3.5 mm headphone jack present	10000	4.7
+realme1	oppo	12/05/2019	12000	8	Qualcomm Snapdragon 710 Octa core Processor	7.3	45	20	6045	Dual Sim,Rear Fingerprint Sensor,Face Unlock,5.5 mm headphone jack present	10000	4.8
+realme2	oppo	10/07/2019	19500	16	Qualcomm Snapdragon 710 Octa core Processor	17.3	65	24	8045	Dual Sim,Rear Fingerprint Sensor,Face Unlock,4.5 mm headphone jack present	10000	4.9
+Xiaomi Redmi Note 8 Pro 	Xiaomi	01/09/2017	11000	6	MediaTek Helio G90T Octa core Processor	6.53	20	64	4045	Dual Sim,Rear Fingerprint Sensor,Face Unlock,2.5 mm headphone jack present	1000	4.7
+Samsung Galaxy M30s	Samsung	01/09/2019	25000	6	Samsung Exynos 9 Octa 9611 Octa core 	6.53	16	48	6000	Dual Sim,Rear Fingerprint Sensor,Face Unlock,3.2 mm headphone jack present	1000	4.7
+Xiaomi Redmi Note 8  	Xiaomi	01/09/2017	35000	6	MediaTek Helio G90T Octa core Processor	6.5	16	58	4045	Dual Sim,Rear Fingerprint Sensor,Face Unlock,4.5 mm headphone jack present	100	4.7
+Samsung Galaxy M30	Samsung	01/09/2019	45000	6	Samsung Exynos 9 Octa 9611 Octa core 	6.53	8	48	6000	Dual Sim,Face Unlock,5.5 mm headphone jack present	100	4.7
+
+
